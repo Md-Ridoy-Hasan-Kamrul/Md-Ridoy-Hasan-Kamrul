@@ -6,11 +6,11 @@
 
 I'm a passionate software developer with a focus on [your specialties, e.g., web development, data science, etc.]. I enjoy creating innovative solutions and contributing to open-source projects.
 
-- 🔭 I’m currently working on MAK Tech Solution (link-to-project)
+- 🔭 I’m currently working on MAK Tech Solution as .
 - 🌱 I’m currently learning [Technology/Skill]
 - 👯 I’m looking to collaborate on [Project Type]
 - 💬 Ask me about [Topics]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: ridoyhasankamrul47@gmail.com
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [A Fun Fact About You]
 
