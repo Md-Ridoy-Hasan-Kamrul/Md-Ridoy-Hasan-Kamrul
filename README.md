@@ -25,21 +25,14 @@
 
 ###
 
-
-
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<h2 align="left">Hi 👋! My name is Md. Ridoy Hasan Kamrul and I'm a Web Developer from Bangladesh. </h2>
 
 ###
 
 <img align="right" height="150" src="https://img.freepik.com/free-photo/3d-render-little-boy-with-laptop-tools_1057-44642.jpg"  />
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
+## 🛠 Language and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
