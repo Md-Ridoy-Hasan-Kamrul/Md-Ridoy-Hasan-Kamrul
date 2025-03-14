@@ -18,15 +18,12 @@
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-
-###
-
 <img align="right" height="150" src="https://img.freepik.com/free-photo/3d-render-little-boy-with-laptop-tools_1057-44642.jpg"  />
 
 ###
-</br>
+
 ## 🛠 Language and tools
-</br>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -49,7 +46,7 @@
 </div>
 
 ###
-</br>
+
 
 ## 📈 GitHub Stats
 
