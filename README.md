@@ -1,4 +1,4 @@
-# Hi there, I'm [Md. Ridoy Hasan Kamrul] 👋
+# Hi there, I'm Md. Ridoy Hasan Kamrul 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
@@ -6,7 +6,7 @@
 
 I'm a passionate software developer with a focus on [your specialties, e.g., web development, data science, etc.]. I enjoy creating innovative solutions and contributing to open-source projects.
 
-- 🔭 I’m currently working on [Project Name](link-to-project)
+- 🔭 I’m currently working on MAK Tech Solution (link-to-project)
 - 🌱 I’m currently learning [Technology/Skill]
 - 👯 I’m looking to collaborate on [Project Type]
 - 💬 Ask me about [Topics]
