@@ -4,7 +4,7 @@
 
 <img align="right" height="150" src="https://img.freepik.com/free-photo/3d-render-little-boy-with-laptop-tools_1057-44642.jpg"  />
 
-###
+## 📫 Connect with Me
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -57,20 +57,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourwebsite.com)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of Your Blog Post](link-to-post)
-- [Another Blog Post Title](link-to-post)
-<!-- BLOG-POST-LIST:END -->
-
-*Note: To automatically update your latest blog posts, you can use GitHub Actions to fetch and display them.*
 
 ## 🎧 Spotify Playing
 
