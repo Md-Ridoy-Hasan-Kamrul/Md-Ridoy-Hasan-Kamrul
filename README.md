@@ -11,7 +11,7 @@
 I am a dedicated Web Developer with a strong focus on JavaScript and Full Stack development, committed to crafting innovative solutions that drive impact.
 
 - **🔭 Current Project:** [E-commerce](link-to-project)
-- **🌱 Learning:** Front-End Development
+- **🌱 Learning:** Full Stack development
 - **💬 Ask Me About:** Open-source contribution strategies.
 - **📫 Contact:** mdridoyhasankamrul@gmail.com
 - **⚡ Fun Fact:** I can solve a Rubik's Cube in under two minutes.
