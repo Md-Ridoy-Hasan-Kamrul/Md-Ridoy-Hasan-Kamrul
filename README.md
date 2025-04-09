@@ -4,7 +4,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Md-Ridoy-Hasan-Kamrul&color=blue)
 
 ## About Me
 
