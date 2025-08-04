@@ -41,6 +41,9 @@ I am a dedicated Web Developer with a strong focus on JavaScript and Full Stack 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/Md-Ridoy-Hasan-Kamrul" alt="Contribution Calendar" width="100%"/>
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
