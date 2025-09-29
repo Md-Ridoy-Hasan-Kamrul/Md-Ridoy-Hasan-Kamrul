@@ -29,7 +29,7 @@ I am a dedicated Web Developer with a strong focus on JavaScript and Full Stack 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fpostman&psig=AOvVaw3V4Ix0bS_qUGsdpjOCzhhC&ust=1759238194891000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJi0nY6H_o8DFQAAAAAdAAAAABAE)
+![Postman](https://share.google/images/4UiSlBYNU8bXn1gpd)
 
 
 ## GitHub Statistics
