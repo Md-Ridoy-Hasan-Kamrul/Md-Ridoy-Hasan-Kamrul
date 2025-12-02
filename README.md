@@ -10,7 +10,7 @@
 
 I am a dedicated Web Developer with a strong focus on JavaScript and Full Stack development, committed to crafting innovative solutions that drive impact.
 
-- **🔭 Current Project:** Treading Crypto](https://rain.co.com)
+- **🔭 Current Project:** Trading Crypto](https://rain.co.com)
 - **🌱 Learning:** Full Stack development
 - **💬 Ask Me About:** Open-source contribution strategies.
 - **📫 Contact:** mdridoyhasankamrul@gmail.com
