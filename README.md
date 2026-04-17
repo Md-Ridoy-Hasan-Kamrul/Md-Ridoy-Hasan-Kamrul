@@ -28,14 +28,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,tailwind,bootstrap,express,mysql,postman"/>
 </p>
 
-## Github Status
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-ridoy-hasan-kamrul" target="_blank">
@@ -45,3 +38,16 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
+
+## Github Status
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+## Weekend Programming Vibe
+<div>
+  <img align="center" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjl2YmppNzZsbDN6a3FrOGI2MGtzaXg2Z25oM3JpODJ3eWdqaHpweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif"/>
+  <img align="center" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Y4MXhucGNkdjhudXQzM3JldWs3aTU4OHVlNXlrZ2ExYmhkYWdyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cU9Sbf5j5wN9k7DMQw/giphy.gif"/>
+</div>
