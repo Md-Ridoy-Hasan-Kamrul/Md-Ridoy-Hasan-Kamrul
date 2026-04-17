@@ -35,13 +35,6 @@
 </div>
 
 
-##  Contribution Graph
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
