@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ5b2J5ZWI1NzR2ejlvNTVweWt0ZjMwa3l3MnU0YjAwN3JyY2k1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Md Ridoy Hasan Kamrul</h1>
