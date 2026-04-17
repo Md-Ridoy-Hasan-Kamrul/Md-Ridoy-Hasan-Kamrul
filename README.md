@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Md-Ridoy-Hasan-Kamrul&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+
 ---
 
 ## 🧑‍💻 About Me
@@ -21,6 +22,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
 ## 🚀 Skills & Technologies
 
 <p align="center">
@@ -31,7 +38,9 @@
 
 ## 📅 Contribution Graph
 
-<img src="https://ghchart.rshah.org/409ba5/Md-Ridoy-Hasan-Kamrul" width="100%"/>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
