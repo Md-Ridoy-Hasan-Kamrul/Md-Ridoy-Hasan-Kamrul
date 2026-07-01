@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/md-ridoy-hasan-kamrul" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://kamrulportfolio.netlify.app/" target="_blank">
+  <a href="https://md-ridoy-hasan-kamrul.github.io/Portfolio-2.0" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
